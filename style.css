@@ -1,0 +1,350 @@
+body{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    padding: 0;
+    margin: 0;  
+    background-color: #FFF8DC; 
+}
+/*///////////////////////*/
+.menu{
+    width: 100%;
+    height: 10vh;
+    top: 0;
+    padding: 0;
+    margin: 0; 
+    background-color: #87CEEB; 
+}
+.box-list-menu{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    padding: 0;
+    margin: 0;  
+}
+.list-menu{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+}
+/*///////////////////////*/
+
+.title{
+    width: 100%;
+    height: 10vh;
+}
+.text-title{
+    width: 100%;
+    height: 6vh;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    color: #87CEEB;
+}
+
+/*///////////////////////*/
+.box1{
+    margin: 0;
+    top: 0;
+    padding: 0;
+    width: 85%;
+    height: 65vh;
+    display: flex;
+    background-color: #BC8F8F;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 30px;
+
+}
+.box-bio{
+    width: 50%;
+    height: 40vh;
+    font-size: 22px;
+
+}
+.title-bio{
+    color: white;
+}
+.text-bio{
+    color: white;
+}
+.box-img-bio{
+    
+    
+
+}
+.img-bio{
+    width: 100%;
+    height: 50vh;
+    border-radius: 30px;
+}
+/*///////////////////////*/
+.big-box-projeto{
+    display: flex;
+    justify-content: flex-end;
+}
+.box2{
+    margin: 0;
+    top: 0;
+    padding: 0;
+    width: 85%;
+    height: 70vh;
+    display: flex;
+    background-color: #87CEEB;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 30px;
+    position: relative;
+    left: -40px;
+}
+.box-projeto{
+    width: 50%;
+    height: 65vh;
+}
+.title-projeto{
+    color: white;
+}
+.text-projeto{
+    color: white;
+    font-size: 18px;
+
+    
+}
+.box-img-projeto{
+    
+    
+
+}
+.img-projeto{
+    width: 100%;
+    height: 50vh;
+    border-radius: 30px;
+}
+
+
+/*///////////////////////*/
+
+.box3{
+    margin: 0;
+    top: 0;
+    padding: 0;
+    width: 85%;
+    height: 70vh;
+    display: flex;
+    background-color: #BC8F8F;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 30px;
+
+}
+.box-importancia{
+    width: 50%;
+    height: 55vh;
+}
+.title-importancia{
+    color: white;
+}
+.text-importancia{
+    color: white;
+    font-size: 22px;
+
+    
+}
+.box-img-importancia{
+    
+    
+
+}
+.img-importancia{
+    width: 100%;
+    height: 50vh;
+    border-radius: 50px;
+}
+
+/*///////////////////////*/
+.curiosidade{
+
+}
+.box-curiosidade{
+
+}
+
+.box-title-curiosidade{
+    width: 99%;
+    height: 10vh;
+    background-color: #87CEEB;
+    color: white;
+    font-size: 25px;
+
+}
+
+.text-curiosidade{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-curiosidade1{
+    width: 41%;
+    font-size: 20px;
+
+}
+
+.title-curiosidade1{
+    color:#BC8F8F;
+
+}
+
+.text-curiosidade1{
+    color: #87CEEB;
+}
+
+/*///////////////////*/
+.curiosidade2{
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+.box-curiosidade2{
+    width: 41%;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.title-curiosidade2{
+    color:#BC8F8F;
+
+}
+
+.text-curiosidade2{
+    color: #87CEEB;
+}
+/*////////////////*/
+.box-curiosidade3{
+    width: 41%;
+    font-size: 20px;
+
+}
+
+.title-curiosidade3{
+    color:#BC8F8F;
+
+}
+
+.text-curiosidade3{
+    color: #87CEEB;
+}
+
+/*///////////*/
+.curiosidade4{
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+.box-curiosidade4{
+    width: 41%;
+    font-size: 20px;
+
+}
+
+.title-curiosidade4{
+    color:#BC8F8F;
+
+}
+
+.text-curiosidade4{
+    color: #87CEEB;
+}
+/*///////////*/
+.box-curiosidade5{
+    width: 41%;
+    font-size: 20px;
+
+}
+
+.title-curiosidade5{
+    color:#BC8F8F;
+
+}
+
+.text-curiosidade5{
+    color: #87CEEB;
+}
+
+/*////////////*/
+.final{
+    width: 95%;
+    height: 15vh;
+    background-color:#BC8F8F ;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+/*//////////*/
+.imagens{
+    width: 100%;
+    height: 50vh;
+}
+
+.box-imagens{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: -40px;
+}
+
+.grupo-imagem1{
+
+}
+
+.imagem1{
+    width: 70%;
+    height: 45vh;
+}
+
+.grupo-imagem2{
+
+}
+
+.imagem2{
+    width: 80%;
+    height: 45vh;
+}
+
+.grupo-imagem3{
+
+}
+
+.imagem3{
+    width: 150%;
+    height: 45vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
